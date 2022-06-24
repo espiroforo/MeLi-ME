@@ -10,6 +10,9 @@ const routerItem = Router();
 //GET productos
 routerItem.get('/:id', itemGet)
 
+//evito el resto de los metodos HTTP
+routerItem.all('/:id', itemNulo)
+
 //Resto productos
 routerItem.all('/', itemNulo)
 
