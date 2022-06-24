@@ -1,4 +1,4 @@
-[![Mercadolibre Logo](https://edicom.com.ar/dam/jcr:713680c7-7c2e-4145-bd94-2f7b5de20bd6/mercadolibre_integration.png)](http://mercadolibre.com/)
+![Mercadolibre Logo](/public/images/mercadolibre.png)
 
   MiddleEnd creado para evaluacion tecnica de Mercado Libre, para [node](http://nodejs.org).
 
